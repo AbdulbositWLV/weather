@@ -1,0 +1,43 @@
+body{
+    background-color: dodgerblue;
+    color: white;
+}
+
+input{
+    font-size: 22px;
+    margin-top: 30px;
+    margin-left: 111px;
+}
+
+#default_location {
+    margin-top: 25px;
+    margin-left: 111px;
+    font-size: 22px;
+}
+
+#mainDiv{
+    color: #000;
+    border-radius: 6px;
+    width: 200px;
+    height: 400px;
+    margin-left: 111px;
+    background-color: #d2e4fc ;
+    padding: 2px;
+}
+
+.p1{
+    margin-left: 6px;
+}
+
+#celsius{
+    height: 12px;
+    margin-bottom: 75px;
+    display: inline;
+}
+
+#feels{
+    display: inline;
+}
+
+
+
